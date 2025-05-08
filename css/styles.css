@@ -31,5 +31,19 @@ section#likes div {
 section#likes article {
     margin: 1rem;
     flex: 1;
-    
+}
+
+img#kieran {
+    min-width: 100%;
+}
+
+section.demo div {
+    display: flex;
+    gap: 1rem;
+}
+
+section.demo div p {
+    font-size: 5rem;
+    background-color: darkred;
+    padding: 1rem;
 }
